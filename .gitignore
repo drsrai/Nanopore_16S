@@ -1,0 +1,7 @@
+*.fastq
+*.fastq.gz
+*.sra
+SRR*
+work/
+results/
+.nextflow/
